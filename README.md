@@ -2,7 +2,7 @@
 
 Pronóstico del PBI de **179 países** con **11 modelos**: líneas base, estadísticos clásicos (ARIMA, ETS, Theta), probabilísticos (filtro de Kalman, Prophet), machine learning global (Random Forest, LightGBM), deep learning (LSTM) y un ensamble. Todos se evalúan igual: backtest con tres orígenes y una **prueba real** contra datos 2022–2023 del Banco Mundial que ningún modelo vio.
 
-**Web:** _(link de Vercel)_
+**Web:** https://gdp-forecast-lab.vercel.app
 
 > *English:* GDP forecasts for 179 countries with 11 statistical, ML and deep-learning models, evaluated with rolling-origin backtests and a true out-of-sample test against 2022–2023 World Bank data. Bilingual web app (ES/EN) built with React + Vite.
 
